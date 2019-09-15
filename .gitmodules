@@ -1,6 +1,8 @@
 [submodule "lib/site"]
 	path = lib/site
 	url = https://github.com/st-r-and/site-ffgoe.git
+	branch = master
 [submodule "lib/gluon"]
 	path = lib/gluon
 	url = https://github.com/freifunk-gluon/gluon.git
+	branch = v2018.2.x
