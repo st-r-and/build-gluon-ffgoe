@@ -5,4 +5,3 @@
 [submodule "lib/gluon"]
 	path = lib/gluon
 	url = https://github.com/freifunk-gluon/gluon.git
-	branch = v2018.2.X
